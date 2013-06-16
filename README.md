@@ -6,4 +6,4 @@ To use, just replace the street view embed code in the body with the embed code 
 
 ## Important
 
-Make sure to change all the dummy text including in the ``<title>``!
+Make sure to change all the dummy text including in the ``title`` in the ``head`` or else it will read: ``<title>Happy [NAME OF HOLIDAY]</title>``!
