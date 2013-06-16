@@ -34,10 +34,10 @@
     });
 
 
-    _.delay(popMarker, 750, mark_number)
+    _.delay(popMarker, 850, mark_number)
     $('#marker_'+mark_number).animate({
       'top': end_y + 'px'
-    }, 1000, function() {
+    }, 1250, 'easeOutQuad', function() {
         // popMarker(mark_number)
     });
   }
