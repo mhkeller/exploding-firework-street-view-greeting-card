@@ -6,7 +6,7 @@ To use, just replace the street view embed code in the body with the embed code 
 
 ## Demo
 
-[View the demo](https://mhkeller.github.com/exploding-firework-street-view-greeting-card)
+<a href="https://mhkeller.github.com/exploding-firework-street-view-greeting-card" target="_blank">View the demo</a>
 
 ## Important
 
